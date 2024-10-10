@@ -35,12 +35,12 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 
 ## 📑 Main Topics 
-- [Web Scraping Lab]
+- Web Scraping Lab
 
-- [Extracting Stock Data Using a Python Library]
-- [Extracting Stock Data Using a Web Scraping]
+- Extracting Stock Data Using a Python Library
+- Extracting Stock Data Using a Web Scraping
 
-- [ Final Project - Extracting and Visualizing Stock Data]
+- Final Project - Extracting and Visualizing Stock Data
 
 
 
